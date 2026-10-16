@@ -16,7 +16,7 @@
   - 리눅스마스터 2급
   - SQLD
 
---
+---
 
 ### 🛠 Tech Stack
 
@@ -32,7 +32,7 @@
 **Infrastructure & Tools** <br>
 <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white"/> <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 
---
+---
 
 ### 🚀 Projects
 
@@ -40,7 +40,7 @@
 - **제주 야호 (Jeju Yaho)** : 동시성 제어(Redis 분산 락) 및 성능 최적화를 위한 로직 구현
 - **Kitty Diary** : 사용자 경험을 고려한 반응형 웹 다이어리 (HTML/CSS/JS) 구현 및 배포
 
---
+---
 
 ### 📊 GitHub Stats
 
@@ -50,12 +50,12 @@
   </a>
 </div>
 
---
+---
 
 ### 🔗 Tech Blog
 <a href="https://velog.io/@munhee.log"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 
---
+---
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/munhee777/munhee777/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contrib" />

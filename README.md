@@ -1,14 +1,18 @@
-# Hi there! I'm Munhee Cho 👋
+
 
 ### 👨🏻‍💻 About Me
 데이터베이스 구조에 대한 깊은 이해를 바탕으로 안정적인 백엔드 시스템을 설계합니다.
 트래픽 병목 현상을 파악하고 쿼리 튜닝과 동시성 제어를 통해 성능을 개선하는 과정을 즐깁니다.
 
-- 💡 **Core Interests:** Oracle DB ADMIN / Backup & Recovery, Full-Stack Development
+- 💡 **Core Interests:**
+  - Oracle DB ADMIN / Backup & Recovery
+  - Full-Stack Development
+
 - 🎓 **Education:**
   - 한국방송통신대학교 컴퓨터과학과 졸업
   - Oracle DBA 과정 수료
   - Spring AI 기반 멀티 에이전트 서비스 개발 과정 (수강 중)
+
 - 📜 **Certifications:**
   - 리눅스마스터 2급
   - SQLD
@@ -35,7 +39,7 @@
   </a>
 </div>
 
-### 🔗 Connect
+### 🔗 Tech Blog
 <a href="https://velog.io/@munhee.log"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 
 <div align="center">

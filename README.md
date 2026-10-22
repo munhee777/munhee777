@@ -52,7 +52,7 @@
 ---
 
 ### 🔗 Tech Blog
-<a href="https://velog.io/@munhee.log"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+<a href="https://velog.io/@velog_mh"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 
 ---
 

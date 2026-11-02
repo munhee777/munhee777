@@ -29,16 +29,19 @@
 ### [Kitty Diary — 반응형 웹 다이어리](https://github.com/munhee777/kitty-diary)
 HTML, CSS, JavaScript로 반응형 웹 다이어리를 구현하고 배포했습니다.
 
-## 기술
+## 기술 스택
 
-**Backend & Database**  
-Java · Spring Boot · Spring Security · Spring Data JPA · Oracle · Redis · MySQL · QueryDSL
+**Backend & Database**<br>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=Spring%20Security&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F00000?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/QueryDSL-4A6E8A?style=flat-square&logo=databricks&logoColor=white"/>
 
-**Frontend & AI**  
-HTML · CSS · JavaScript · React · Spring AI · Python
+**Frontend**<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 
-**Infrastructure & Tools**  
-Oracle Cloud · GitHub Actions · Linux · k6 · Git
+**AI**<br>
+<img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
+**Infrastructure & Tools**<br>
+<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 ## 학력 및 자격
 

@@ -44,7 +44,7 @@
 
 **Java · Spring Boot · JPA · Oracle · Redis/Redisson · Spring AI**
 
-### CineHub — 영화 커뮤니티
+### [CineHub — 영화 커뮤니티](https://github.com/munhee777/cinehub)
 영화 커뮤니티의 CRUD 기능과 REST API 구현에 참여했습니다.
 
 ### [Kitty Diary — 반응형 웹 다이어리](https://github.com/munhee777/kitty-diary)

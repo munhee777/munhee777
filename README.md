@@ -1,6 +1,6 @@
 # 조문희 | 신입 백엔드 개발자
 
-Java와 Spring Boot로 서비스를 구현하고, 데이터베이스와 트랜잭션까지 살펴 안정적인 백엔드를 만드는 개발자입니다. 기능을 나열하기보다 문제를 어떻게 재현하고 해결했는지, 제가 맡은 부분과 팀 결과를 구분해 기록합니다.
+Java와 Spring Boot로 서비스를 구현하고, 데이터베이스와 트랜잭션까지 살펴 안정적인 백엔드를 만드는 개발자입니다. 기능을 나열하기보다 문제를 어떻게 재현하고 해결했는지, 제가 맡은 부분과 결과를 구분해 기록합니다.
 
 [🌐 포트폴리오](https://munhee777.github.io) · [GitHub 저장소](https://github.com/munhee777?tab=repositories) · [Velog](https://velog.io/@velog_mh)
 
@@ -37,7 +37,7 @@ Java와 Spring Boot로 서비스를 구현하고, 데이터베이스와 트랜�
 
 ### [CineHub | 영화 커뮤니티](https://github.com/munhee777/cinehub)
 
-게시글 등 CRUD 중심의 백엔드 기능과 REST API를 구현했습니다. JDBC 연결 기반과 DAO에서 SQL CRUD를 다루며 요청과 데이터 처리 흐름을 익혔습니다. 영화 관련 백엔드는 다른 팀원이 담당했습니다.
+첫 팀 프로젝트를 진행하며 게시판 CRUD 중심의 백엔드 기능과 REST API를 구현했습니다. JDBC 연결 기반과 DAO에서 SQL CRUD를 다루며 요청과 데이터 처리 흐름을 익혔습니다. 
 
 
 ## 학력 및 자격

@@ -35,30 +35,7 @@ Java와 Spring Boot로 서비스를 구현하고, 데이터베이스와 트랜�
 
 게시글 등 CRUD 중심의 백엔드 기능과 REST API를 구현했습니다. JDBC 연결 기반과 DAO에서 SQL CRUD를 다루며 요청과 데이터 처리 흐름을 익혔습니다. 영화 관련 백엔드는 다른 팀원이 담당했습니다.
 
-### Spring AI 학습 프로젝트
 
-Spring AI 기반 서비스 개발 과정에서 생성형 AI 연동과 응답 처리 사례를 학습하고 있습니다. 진행 중인 예제는 [공개 저장소 목록](https://github.com/munhee777?tab=repositories)에서 확인할 수 있습니다.
-
-## 트러블슈팅
-
-### 예약 동시성 | Redisson 분산 락
-
-- **문제:** 남은 객실을 여러 사용자가 동시에 예약하면 초과 예약 위험이 있었습니다.
-- **해결:** Redis 기반 Redisson 분산 락으로 예약 자원 접근을 조정했습니다.
-- **검증 기록:** 발표 자료에는 잔여 객실 6개, 가상 사용자 100명 동시 요청 시나리오에서 106건 중 6건 성공으로 기록되어 있습니다. 상세 조건과 수치 해석은 [발표 자료](https://github.com/munhee777/hotel-booking/blob/develop/docs/jeju-presentation-draft.pdf)에 공개했습니다.
-
-### 숙소 대량 삭제 | JPA N+1
-
-- **문제:** 숙소에 연결된 재고 데이터가 많을 때 반복 삭제 쿼리로 성능 저하가 발생했습니다.
-- **해결:** 외래 키 제약을 고려해 삭제 순서를 설계하고 벌크 연산과 `@Modifying(clearAutomatically = true)`를 적용했습니다.
-- **결과:** 반복 엔티티 삭제 경로를 벌크 삭제로 변경했습니다. 자료에 정량 전후 수치가 없어 별도 수치는 주장하지 않습니다.
-
-### 배포 환경 설정 | GitHub Actions Secrets
-
-- **문제:** 배포 과정에서 로컬 설정 파일에 의존할 수 없고 민감 값을 저장소에 포함할 수 없었습니다.
-- **해결:** GitHub Secrets와 `deploy.yml`을 연결해 빌드 환경에 필요한 값을 주입했습니다.
-
-### 팀 성능 개선 기록 | Redis 캐시
 
 발표 자료의 측정 기록에서 메인 API 평균 응답 시간은 9.01초에서 226ms로, 처리량은 초당 약 10건에서 약 439건으로 개선되었습니다. **팀 프로젝트 결과로 표시하며 개인 담당 성과로 주장하지 않습니다.** 측정 조건은 [발표 자료](https://github.com/munhee777/hotel-booking/blob/develop/docs/jeju-presentation-draft.pdf)를 참고해 주세요.
 

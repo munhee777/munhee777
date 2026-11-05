@@ -25,9 +25,10 @@ Java와 Spring Boot로 서비스를 구현하고, 데이터베이스와 트랜�
 - 호스트·예약 도메인의 핵심 REST API
 - 카카오 OAuth2/JWT, 이메일 인증 기반 비밀번호 재설정
 - Redisson 분산 락을 활용한 예약 동시성 제어
-- 숙소 대량 삭제 쿼리 개선, 결제 연동 및 GitHub Actions 배포 설정
+- AI 챗봇 및 가상결제 구현
+- 숙소 대량 삭제 쿼리 개선, 메인페이지 조회성능 개선
 
-**팀에서 함께 구현한 기능**에는 React 기반 화면, 지도·관광 큐레이션, 날씨, 리뷰, AI 챗봇 등이 있습니다. 팀 전체 기능을 개인 기여와 구분해 적었습니다.
+**팀에서 함께 구현한 기능**에는 React 기반 화면, 지도·관광 큐레이션, 날씨, 리뷰 등이 있습니다. 팀 전체 기능을 개인 기여와 구분해 적었습니다.
 
 [ERD · 제안서 · 발표 자료](https://github.com/munhee777/hotel-booking/tree/develop/docs) · [시연 영상](https://drive.google.com/file/d/1aLvJOjhpbnPIAw_CgQL5NRQCfP8i47C7/view?usp=share_link)
 

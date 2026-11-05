@@ -28,6 +28,9 @@ Java와 Spring Boot로 서비스를 구현하고, 데이터베이스와 트랜�
 - AI 챗봇 및 가상결제 구현
 - 숙소 대량 삭제 쿼리 개선, 메인페이지 조회성능 개선
 
+발표 자료의 측정 기록에서 메인 API 평균 응답 시간은 9.01초에서 226ms로, 처리량은 초당 약 10건에서 약 439건으로 개선되었습니다. 측정 조건은 [발표 자료](https://github.com/munhee777/hotel-booking/blob/develop/docs/jeju-presentation-draft.pdf)를 참고해 주세요.
+
+
 **팀에서 함께 구현한 기능**에는 React 기반 화면, 지도·관광 큐레이션, 날씨, 리뷰 등이 있습니다. 팀 전체 기능을 개인 기여와 구분해 적었습니다.
 
 [ERD · 제안서 · 발표 자료](https://github.com/munhee777/hotel-booking/tree/develop/docs) · [시연 영상](https://drive.google.com/file/d/1aLvJOjhpbnPIAw_CgQL5NRQCfP8i47C7/view?usp=share_link)
@@ -36,9 +39,6 @@ Java와 Spring Boot로 서비스를 구현하고, 데이터베이스와 트랜�
 
 게시글 등 CRUD 중심의 백엔드 기능과 REST API를 구현했습니다. JDBC 연결 기반과 DAO에서 SQL CRUD를 다루며 요청과 데이터 처리 흐름을 익혔습니다. 영화 관련 백엔드는 다른 팀원이 담당했습니다.
 
-
-
-발표 자료의 측정 기록에서 메인 API 평균 응답 시간은 9.01초에서 226ms로, 처리량은 초당 약 10건에서 약 439건으로 개선되었습니다. **팀 프로젝트 결과로 표시하며 개인 담당 성과로 주장하지 않습니다.** 측정 조건은 [발표 자료](https://github.com/munhee777/hotel-booking/blob/develop/docs/jeju-presentation-draft.pdf)를 참고해 주세요.
 
 ## 학력 및 자격
 
